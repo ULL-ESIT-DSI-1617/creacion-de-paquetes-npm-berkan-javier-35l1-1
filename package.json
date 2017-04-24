@@ -1,22 +1,22 @@
 {
-  "name": "switchsmell",
+  "name": "creacion-de-paquetes-npm-berkan-javier-35l1-1",
   "version": "1.0.0",
-  "description": "ejemplos de switch smell.",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --require should"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ULL-ESIT-DSI-1617/evalua-strategy-pattern.git"
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-berkan-javier-35l1-1.git"
   },
-  "keywords": [
-    "js",
-    "switch smell"
-  ],
-  "author": "Casiano Rodriguez Leon",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ULL-ESIT-DSI-1617/evalua-strategy-pattern/issues"
+    "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-berkan-javier-35l1-1/issues"
   },
   "homepage": "",
   "dependencies": {
