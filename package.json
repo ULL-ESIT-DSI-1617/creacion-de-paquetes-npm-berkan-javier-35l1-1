@@ -2,7 +2,7 @@
   "name": "@ull-berkan-javier/ull-shape",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/shapesarea.js",
   "directories": {
     "test": "test"
   },
