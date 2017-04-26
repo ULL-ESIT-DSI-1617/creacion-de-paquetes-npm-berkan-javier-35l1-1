@@ -2,7 +2,7 @@
 
 let util = require('util');
 var readline = require('readline');
-let Shape = require('../shapesarea.js')
+let Shape = require('../lib/shapesarea.js')
 
 try {
   let type = process.argv[2];
