@@ -1,6 +1,6 @@
 {
   "name": "@ull-berkan-javier/ull-shape",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Modulo para la creación de figuras geométricas",
   "main": "lib/shapesarea.js",
   "directories": {
